@@ -1,4 +1,4 @@
-# Formação machine learning 
+# Formação Machine Learning 
 
 The aim of this project is to deepen my knowledge of machine learning and data processing
 
